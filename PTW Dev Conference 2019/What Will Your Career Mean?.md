@@ -13,9 +13,8 @@ Linkedin study,
  - 21.7% Embedded, data analytics
  - Most inmails of any occuptaion
  - 49% leaving tech jobs take another tech job
-
-45% satisfied in current role
-78% would consider leaving their current role
+ - 45% satisfied in current role
+ - 78% would consider leaving their current role
 
 
 Opportunities to build a career, not just a job
@@ -23,11 +22,9 @@ Opportunities to build a career, not just a job
 2 paths: (Me vs we)
  - mercenary path
  	- money
- 	-
 
  - missionary path
  	- mission
- 	- 
 
 
 Want someone that's going to be collaborative

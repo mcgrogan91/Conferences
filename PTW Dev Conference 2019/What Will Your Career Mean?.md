@@ -70,7 +70,7 @@ How to identify a mission driven organization?
 	9. What will my mission be?
 		- What is it within the group?
 
-Power of Time and compound growth: 2 year tour of duty
+Power of Time and compound growth: 2 year tour of duty at their company
 0-6 months:  Learning who you are at X
 6-12 months: What's your brand at the company
 12-18 months: Combining them jawns
@@ -78,10 +78,6 @@ Power of Time and compound growth: 2 year tour of duty
 
 What is your Legacy?
 How will you leave the world a better place?
-
-
-- What about growth when you believe in a mission but don't see room for growth?
-- How do you survey your devs? They likely aren't going to tell their employer if they're not satisfied
 
 
 

@@ -35,8 +35,6 @@ Grubhub Data Platform Philosophy - SIMs
 (Took a picture of architecture)
 Red: Self service capability
 Inspiration came from Netflix
-Why is this dude asking questions in the middle of the presentation?
-Why is this other dude asking questions in the middle of the presentation?
 
 
 ## Self Service capabilities

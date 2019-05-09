@@ -49,23 +49,23 @@ Mission can change if you sell the company
 You'll make more money, create more value, live more fulfilled lives, have a brighter future if you stay the course on a mission
 
 How to identify a mission driven organization?
-	1. What's the average tenure of people?
-		- Longer tenures can hint at missions
-	2. Contractor vs full time employees?
-		- What's the mix?
-		- How are they treated? (PTO, etc?)
-	3. Insights into the company culture
-		- Shadow the business, ask if they'll host you for a day
-	4. Does the company or department work in teams?
-		- Teams to mentor, build people up
-	5. Will I get to build things?
-		- Are you building something, or are you wiring up things/maintenance?
-	6. Are there opportunities to get feedback from the end-user?
-		- Do you get to talk to them?
-	7. Does the company have a mission-based culture?
-	8. What kind of impact will I be able to have?
-	9. What will my mission be?
-		- What is it within the group?
+  1. What's the average tenure of people?
+     * Longer tenures can hint at missions
+  2. Contractor vs full time employees?
+     * What's the mix?
+     * How are they treated? (PTO, etc?)
+  3. Insights into the company culture
+     * Shadow the business, ask if they'll host you for a day
+  4. Does the company or department work in teams?
+     * Teams to mentor, build people up
+  5. Will I get to build things?
+     * Are you building something, or are you wiring up things/maintenance?
+  6. Are there opportunities to get feedback from the end-user?
+     * Do you get to talk to them?
+  7. Does the company have a mission-based culture?
+  8. What kind of impact will I be able to have?
+  9. What will my mission be?
+     * What is it within the group?
 
 Power of Time and compound growth: 2 year tour of duty at their company
 0-6 months:  Learning who you are at X

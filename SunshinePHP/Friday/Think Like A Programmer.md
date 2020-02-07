@@ -1,6 +1,6 @@
 # Think Like a Programmer
 Cal Evans
-@calevans
+[@calevans](twitter.com/calevans)
 
 [Slides](https://joind.in/talk/ce57d)
 

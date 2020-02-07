@@ -1,6 +1,6 @@
 # PHP and a Serverless Future
 Doug Steinberg
-@doug_steinberg
+[@doug_steinberg](twitter.com/doug_steinberg)
 
 [Slides](https://joind.in/talk/3e3f6)
 

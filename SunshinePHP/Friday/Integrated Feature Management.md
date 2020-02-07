@@ -1,6 +1,6 @@
 # Integrated Feature Management - Using Feature Flags
 Dana Luther
-@danaluther
+[@danaluther](twitter.com/danaluther)
 
 [Slides](https://joind.in/talk/7b4f6)
 

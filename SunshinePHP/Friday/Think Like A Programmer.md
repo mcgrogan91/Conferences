@@ -2,6 +2,8 @@
 Cal Evans
 @calevans
 
+[Slides](https://joind.in/talk/ce57d)
+
 ## What does it mean to think like a programmer?
 
 It's a mindset.

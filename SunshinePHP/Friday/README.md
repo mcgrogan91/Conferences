@@ -34,15 +34,7 @@ Talk by: Eric Mann
 Description: Sometimes, our use of PHP grows beyond the typical request/response cycle of dynamic page generation. Unfortunately, the threaded nature of PHP - and the stateless nature of the server - betrays any efforts to expand our utilization of the server. Image processing, video rendering, APNS (Apple Push Notification Service) integration - any of these can easily take longer than is reasonable for a simple page request. Enter tools like message and job queues that empower daemonized PHP workers to handle data processing in the background. Yet further tools enable long-running event loops and asynchronous Promise-driven operations. PHP isn't multi-threaded, but that doesn't mean you're limited to a single-thread paradigm. I will demonstrate various use cases necessitating asynchronous operations, then delve into the code and the tools that make these systems work. Every attendee will leave armed with new ways to think about the management of large data jobs in PHP and an understanding of the tools they can use to make it happen.
 
 
-## Option 1) Powering Your API Development with OpenAPI Version 3 
-
-Talk by: Daniel Abernathy
-
-Description: OpenAPI is more than just a documentation tool - even though it's great for that! As the tooling for OpenAPI version 3 has matured, there are now more opportunities to use OpenAPI to make your API development faster, easier, and more resilient. In this talk you'll learn how to use the OpenAPI spec and tools in the Open API ecosystem to power: - Mock servers to test your API before it exists - Integration tests to ensure that your API responses meet your specification - Validation logic - Documentation
-
-
-
-## Option 2) Getting Your Head Around (Security) Headers 
+## Getting Your Head Around (Security) Headers 
 
 Talk by: Elisa Towbis
 

@@ -2,7 +2,7 @@
 Dana Luther
 @danaluther
 
-Slides: https://joind.in/talk/7b4f6
+[Slides](https://joind.in/talk/7b4f6)
 
 ## What are feature flags?
 

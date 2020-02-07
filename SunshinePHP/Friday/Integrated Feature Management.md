@@ -1,8 +1,9 @@
 # Integrated Feature Management - Using Feature Flags
 Dana Luther
-[@danaluther](twitter.com/danaluther)
 
-[Slides](https://joind.in/talk/7b4f6)
+[@danaluther](https://twitter.com/danaluther)
+
+[Joind link](https://joind.in/talk/7b4f6)
 
 ## What are feature flags?
 
@@ -29,15 +30,15 @@ For views, you can add conditionals around which view to render
  * Maybe the whole site is down, maybe portions are down
  * Flagging for third party API's that may be under maintenance
 * Seasonal/Calendar driven content
-* [More feature flag uses](featureflags.io/feature-flag-uses/)
+* [More feature flag uses](https://featureflags.io/feature-flag-uses/)
 
 Can automate turning them on/off with timers, or based on failures, etc
 
 ## How do we want to use them?
 
 * [PHP libraries](featureflags.io/php-feature-flags/)
-* [On packagist](packagist.org/), search for "feature flag", etc
- * [Swivel](packagist.org/packages/zumba/swivel)
+* [On packagist](https://packagist.org/), search for "feature flag", etc
+ * [Swivel](https://packagist.org/packages/zumba/swivel)
  * Well build, so if there is no framework version for it, it's not hard to make one
 
 ### User Experience Groups

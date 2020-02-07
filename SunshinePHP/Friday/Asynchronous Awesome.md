@@ -1,7 +1,10 @@
 # Asynchronous Awesome
 
 Eric Mann
-[@EricMann](twitter.com/EricMann)
+
+[@EricMann](https://twitter.com/EricMann)
+
+[Joind link](https://joind.in/talk/2435b)
 
 ## Naive Approaches to Async
 

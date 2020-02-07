@@ -1,8 +1,9 @@
 # PHP and a Serverless Future
 Doug Steinberg
-[@doug_steinberg](twitter.com/doug_steinberg)
 
-[Slides](https://joind.in/talk/3e3f6)
+[@doug_steinberg](https://twitter.com/doug_steinberg)
+
+[Joind link](https://joind.in/talk/3e3f6)
 
 ## What is serverless?
 
@@ -38,6 +39,6 @@ Cons:
 AWS doesn't support PHP, but does have custom runtimes where you can set that up
 
 Tools:
-* [bref](bref.sh) takes care of that custom runtime
-* [serverless](serverless.com) - helps you deploy to your serverless provider
-* [Vapor](vapor.laravel.com) - takes care of everything for laravel apps
+* [bref](https://bref.sh) takes care of that custom runtime
+* [serverless](https://serverless.com) - helps you deploy to your serverless provider
+* [Vapor](https://vapor.laravel.com) - takes care of everything for laravel apps

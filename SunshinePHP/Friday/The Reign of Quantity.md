@@ -1,6 +1,9 @@
 # The Reign Of Quantity, or Why Two are Better Than One
 Matthew Meier O'Phinney
-[@mwop](twitter.com/mwop)
+
+[@mwop](https://twitter.com/mwop)
+
+[Joind link](https://joind.in/talk/97b67)
 
 Project lead on Laminas project. Product Manager, Zend by Perforce
 

@@ -1,8 +1,9 @@
 # Think Like a Programmer
 Cal Evans
-[@calevans](twitter.com/calevans)
 
-[Slides](https://joind.in/talk/ce57d)
+[@calevans](https://twitter.com/calevans)
+
+[Joind link](https://joind.in/talk/ce57d)
 
 ## What does it mean to think like a programmer?
 

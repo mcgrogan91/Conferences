@@ -40,11 +40,6 @@ Talk by: Camilo Payan
 
 Description: Bugs happen, and when they do, developers need to be ready to remove those bugs. While debugging tools are important, without methodology they'll always be stabs in the dark. In this talk, we'll walk through debugging a program using repeatable methods. Starting with confirming your assumptions, we'll walk through the steps any developer can take to fix any bug.
 
-## Stacking Up Middleware
-
-Talk by: Mark Niebergall 
-
-Description: The shift towards API driven design has echoed in new design patterns from traditional MVC. Middleware pipelines is geared to address the complexities and nuances that arise with APIs. We'll delve into Expressive, discuss strategies for adding layers, handling authentication and authorization, and implications for projects. Come learn all about middleware and discover how you can leverage pipelines in your development.
 
 ## Closing Keynote - Somebody's Gotta Do it
 

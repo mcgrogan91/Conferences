@@ -1,6 +1,6 @@
 # SunshinePHP 2020 - Friday
 
-The first day of SunshinePHP, below are the talks I currently anticipate going to:
+The first day of SunshinePHP, below are the talks I attended:
 
 ## Opening Keynote - Think Like a Programmer
 
